@@ -1,0 +1,14 @@
+{
+  "name": "dbeditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "electron ./app.js"
+  },
+  "author": "Xuyang1638",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.0"
+  }
+}
